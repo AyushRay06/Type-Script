@@ -1,0 +1,1 @@
+let ge : number = 10;
